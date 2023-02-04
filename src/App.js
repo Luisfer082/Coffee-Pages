@@ -5,6 +5,12 @@ import Formulario from './components/Formulario';
 import Informacion from './components/Informacion';
 import Footer from './components/Footer';
 
+import { Form } from 'react-bootstrap';
+
+import { doc, setDoC } from "firebase/firestore"
+
+
+
 
 function App() {
   return (
