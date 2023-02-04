@@ -85,7 +85,7 @@
 }
 
 .info-buttom{
-  margin-top: 50px;
+  margin: 50px;
   width: 40%;
 }
 
@@ -235,6 +235,7 @@
   .info-buttom{
     margin-top: 50px;
     width: 100%;
+    display: block;
   }
 
   .formulario-padre{
