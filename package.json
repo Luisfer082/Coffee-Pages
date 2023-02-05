@@ -2,7 +2,7 @@
   "name": "my-restaurant1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Luisfer082.github.io/Poyecto4-res",
+  "homepage": "http://Luisfer082.github.io/Proyecto4-Res",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
