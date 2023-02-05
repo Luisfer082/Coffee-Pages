@@ -5,7 +5,7 @@ function Main() {
     <div className='principal'>
     <div className='content'></div>
     <div className='title'>
-      <p>Proyect Coffe</p>
+      <p>Coffee Time</p>
     </div>
 
   </div>
