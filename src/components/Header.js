@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <div className='Nav'>
-    Header
+    <div className='imagen-nav'></div>
   </div>
   
   )
